@@ -4,6 +4,7 @@ bin/
 .idea
 share
 include
+datasets/cats_and_dogs_filtered
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
